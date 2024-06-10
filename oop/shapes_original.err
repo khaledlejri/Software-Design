@@ -1,0 +1,2 @@
+sq TypeError: unsupported format string passed to method.__format__
+ci TypeError: unsupported format string passed to method.__format__
